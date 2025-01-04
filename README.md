@@ -1,1 +1,1 @@
-"# pyTetris" 
+Игра тетрис на Python
